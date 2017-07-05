@@ -29,7 +29,7 @@ Type & Class:	Legendary Creature - God
 Pow/Tou:	5/5
 Card Text:	At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control. 
 2UB: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie. 
-When The Scarab God dies, return it to its owners hand at the beginning of the next end step.
+When The Scarab God dies, return it to its owner's hand at the beginning of the next end step.
 Rarity:
 Card #:		3/199
 
