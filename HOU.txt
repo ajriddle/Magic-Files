@@ -15,7 +15,10 @@ Card Color:	Gld
 Mana Cost:	4UR
 Type & Class:	Legendary Creature - God
 Pow/Tou:	4/4
-Card Text:	FlyingWhenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.2UR: Draw a card, then discard a card. When The Locust God dies, return it to its owner's hand at the beginning of the next end step.
+Card Text:	Flying 
+Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste. 
+2UR: Draw a card, then discard a card. 
+When The Locust God dies, return it to its owner's hand at the beginning of the next end step.
 Rarity:
 Card #:		2/199
 
@@ -24,8 +27,9 @@ Card Color:	Gld
 Mana Cost:	3UB
 Type & Class:	Legendary Creature - God
 Pow/Tou:	5/5
-Card Text:	At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.
-%2%U%B: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie. When The Scarab God dies, return it to its owners hand at the beginning of the next end step.
+Card Text:	At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control. 
+2UB: Exile target creature card from a graveyard. Create a token that's a copy of it, except it's a 4/4 black Zombie. 
+When The Scarab God dies, return it to its owners hand at the beginning of the next end step.
 Rarity:
 Card #:		3/199
 
@@ -34,8 +38,9 @@ Card Color:	Gld
 Mana Cost:	3BR
 Type & Class:	Legendary Creature - God
 Pow/Tou:	6/5
-Card Text:	Whenever a creature with -1/-1 counter on it dies, draw a card.
-%1%B%R: Put a -1/-1 counter on another target creature. When the Scorpion God dies, return it to its owner's hand at the beginning of the next end step.
+Card Text:	Whenever a creature with -1/-1 counter on it dies, draw a card. 
+1BR: Put a -1/-1 counter on another target creature. 
+When the Scorpion God dies, return it to its owner's hand at the beginning of the next end step.
 Rarity:
 Card #:		4/199
 
@@ -45,7 +50,7 @@ Mana Cost:	2RG
 Type & Class:	Planeswalker - Samut
 Pow/Tou:	%4#
 Card Text:	+1: Up to one target creature gains double strike until end of turn.
--2: Samut, the Tested deals 2 damage divided as you choose among one of two target creatures and/or players.
+-2: Samut, the Tested deals 2 damage divided as you choose among one or two target creatures and/or players.
 -7: Search your library for up to two creatures and/or planeswalker cards, put them onto the battlefield, then shuffle your library.
 Rarity:
 Card #:		5/199
@@ -55,7 +60,7 @@ Card Color:	W
 Mana Cost:	3WW
 Type & Class:	Creature - Horse
 Pow/Tou:	5/5
-Card Text:	Other Horses you control have indestructible.
+Card Text:	Other Horses you control have indestructible. 
 At the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token.
 Rarity:
 Card #:		6/199
@@ -85,7 +90,7 @@ Mana Cost:	3RR
 Type & Class:	Legendary Creature - Zombie Minotaur Warrior
 Pow/Tou:	4/6
 Card Text:	Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)
-At the beginning of your postcombat main phase, add %R to your mana pool for each 1 life your opponents have lost this turn.
+At the beginning of your postcombat main phase, add R to your mana pool for each 1 life your opponents have lost this turn.
 Rarity:
 Card #:		9/199
 
@@ -148,7 +153,7 @@ Card Color:	W
 Mana Cost:	3WWW
 Type & Class:	Sorcery
 Pow/Tou:
-Card Text:	Hour of Revelation costs %3 less to cast if there are ten or more nonland permanents on the battlefield.
+Card Text:	Hour of Revelation costs 3 less to cast if there are ten or more nonland permanents on the battlefield.
 Destroy all nonland permanents.
 Rarity:
 Card #:		16/199
@@ -262,8 +267,8 @@ Mana Cost:	2WW
 Type & Class:	Creature - Angel
 Pow/Tou:	3/3
 Card Text:	Flying, vigilance
-%2%W, %T: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
-%2%W, %T, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield.
+2W, T: Exile another target creature. Return that card to the battlefield under its owner's control at the beginning of the next end step.
+2W, T, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield.
 Rarity:
 Card #:		28/199
 
@@ -282,7 +287,7 @@ Mana Cost:	1W
 Type & Class:	Creature - Cat
 Pow/Tou:	1/1
 Card Text:	Double Strike
-Eternalize %3%W%W (%3%W%W, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie cat with no mana cost. Eternalize only as a sorcery.)
+Eternalize 3WW (3WW, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie cat with no mana cost. Eternalize only as a sorcery.)
 Rarity:
 Card #:		30/199
 
@@ -304,7 +309,7 @@ Mana Cost:	2W
 Type & Class:	Sorcery
 Pow/Tou:
 Card Text:	Target creature gets +3/+3 and gains flying until end of turn.
-Whenever a Zombie enters the battlefield under your control, you may pay %W. If you do, return Unconventional Tactics from your graveyard to your hand.
+Whenever a Zombie enters the battlefield under your control, you may pay W. If you do, return Unconventional Tactics from your graveyard to your hand.
 Rarity:
 Card #:		32/199
 
@@ -313,7 +318,7 @@ Card Color:	W
 Mana Cost:	1W
 Type & Class:	Creature - Human Warrior
 Pow/Tou:	2/2
-Card Text:	%T, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won't untap during your next untap step.)
+Card Text:	T, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won't untap during your next untap step.)
 Rarity:
 Card #:		33/199
 
@@ -323,7 +328,7 @@ Mana Cost:	2W
 Type & Class:	Creature - Human Wizard
 Pow/Tou:	2/3
 Card Text:	When Sunscourge Champion enters the battlefield, you gain life equal to its power.
-Eternalize-%2%W%W, Discard a card. (%2%W%W, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
+Eternalize-2WW, Discard a card. (2WW, Discard a card, Exile this card from your graveyard: Create a token that's a copy of it, except it's a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)
 Rarity:
 Card #:		34/199
 
@@ -333,7 +338,7 @@ Mana Cost:	4WW
 Type & Class:	Creature - Angel
 Pow/Tou:	4/4
 Card Text:	Flying
-Cycling %2 (%2, Discard this card: Draw a card.)
+Cycling 2 (2, Discard this card: Draw a card.)
 Rarity:
 Card #:		35/199
 
@@ -364,7 +369,7 @@ Mana Cost:	1W
 Type & Class:	Instant
 Pow/Tou:
 Card Text:	Tap up to two target creatures.
-Cycling %W (%W, Discard this card: Draw a card.)
+Cycling W (W, Discard this card: Draw a card.)
 Rarity:
 Card #:		38/199
 
@@ -484,7 +489,7 @@ Mana Cost:	2U
 Type & Class:	Creature - Bird Wizard
 Pow/Tou:	3/1
 Card Text:	Flash, Flying
-Cycling %2%U (%2%U, Discard this card: Draw a card.)
+Cycling 2U (2U, Discard this card: Draw a card.)
 When you cycle Nimble Obstructionist, counter target activated or triggered ability you don't control.
 Rarity:
 Card #:		51/199
@@ -514,7 +519,7 @@ Mana Cost:	1U
 Type & Class:	Enchantment
 Pow/Tou:
 Card Text:	Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.
-%2%U: Scry 1.
+2U: Scry 1.
 Rarity:
 Card #:		54/199
 
@@ -562,7 +567,7 @@ Card Color:	U
 Mana Cost:	2U
 Type & Class:	Creature - Naga Warrior
 Pow/Tou:	2/2
-Card Text:	%U: Sinuous Striker gets +1/-1 until end of turn.
+Card Text:	U: Sinuous Striker gets +1/-1 until end of turn.
 Eternalize-3UU, Discards a card. (3UU, Discard a card, Exile this card from your graveyard.: Create a token that's a copy of it, except it's a 4/4 black Zombie Naga Warrior with no mana cost. Eternalize only as a sorcery.
 Rarity:
 Card #:		59/199
@@ -573,7 +578,7 @@ Mana Cost:	2U
 Type & Class:	Instant
 Pow/Tou:
 Card Text:	Choose one -
-|Counter target spell unless its controller pays %3.
+|Counter target spell unless its controller pays 3.
 |Look at the top 4 cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
 Rarity:
 Card #:		60/199
@@ -637,7 +642,7 @@ Card Color:	U
 Mana Cost:	6U
 Type & Class:	Creature - Serpent
 Pow/Tou:	5/5
-Card Text:	Hexproof (This creature can't be the target of spells or abilities your opponents control.)Cycling %U (U, Discard this card: Draw a card.)
+Card Text:	Hexproof (This creature can't be the target of spells or abilities your opponents control.)Cycling U (U, Discard this card: Draw a card.)
 Rarity:
 Card #:		67/199
 
@@ -673,7 +678,7 @@ Card Color:	U
 Mana Cost:	2U
 Type & Class:	Creature - Naga Cleric
 Pow/Tou:	1/4
-Card Text:	U, %T, Discard a card: Target player puts the top three cards of his or her library into his or her graveyard.
+Card Text:	U, T, Discard a card: Target player puts the top three cards of his or her library into his or her graveyard.
 Rarity:
 Card #:		71/199
 
@@ -970,7 +975,7 @@ Card Color:	R
 Mana Cost:	2R
 Type & Class:	Creature - Human Wizard
 Pow/Tou:	3/1
-Card Text:	%T: Fervent Paincaster deals 1 damage to target player.%T, Exert Fervent Paincaster: it deals 1 damage to target creature.
+Card Text:	T: Fervent Paincaster deals 1 damage to target player.T, Exert Fervent Paincaster: it deals 1 damage to target creature.
 Rarity:
 Card #:		104/199
 
@@ -1127,7 +1132,7 @@ Mana Cost:	2G
 Type & Class:	Creature - Cat
 Pow/Tou:	2/2
 Card Text:	Pride Sovereign gets +1/+1 for each other Cat you control.
-%W, %T, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with Lifelink. (An exerted creature won't untap during your next untap step.
+W, T, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with Lifelink. (An exerted creature won't untap during your next untap step.
 Rarity:
 Card #:		121/199
 
@@ -1156,7 +1161,7 @@ Card Color:	G
 Mana Cost:	2G
 Type & Class:	Creature - Naga Cleric
 Pow/Tou:	2/3
-Card Text:	%1, Tap an untapped Desert you control: You gain 1 life.
+Card Text:	1, Tap an untapped Desert you control: You gain 1 life.
 Rarity:
 Card #:		124/199
 
@@ -1165,7 +1170,7 @@ Card Color:	G
 Mana Cost:	2G
 Type & Class:	Creature - Naga Wizard
 Pow/Tou:	3/2
-Card Text:	%4%G: Target creature gets +2/+2 until end of turn.
+Card Text:	4G: Target creature gets +2/+2 until end of turn.
 Rarity:
 Card #:		125/199
 
@@ -1201,8 +1206,8 @@ Card Color:	G
 Mana Cost:	1G
 Type & Class:	Creature - Human Druid
 Pow/Tou:	2/2
-Card Text:	%1, %T: Untap target land.
-%1, %T, Exert Hope Tender: Untap two target lands. (An exerted creature won't untap during your next untap step.)
+Card Text:	1, T: Untap target land.
+1, T, Exert Hope Tender: Untap two target lands. (An exerted creature won't untap during your next untap step.)
 Rarity:
 Card #:		129/199
 
@@ -1321,7 +1326,7 @@ Card Color:	G
 Mana Cost:	3G
 Type & Class:	Creature - Naga Druid
 Pow/Tou:	2/4
-Card Text:	%T: Add one mana of any color to your mana pool.%T, Exert Oasis Ritualist: Add to mana of any one color to your mana pool.
+Card Text:	T: Add one mana of any color to your mana pool.T, Exert Oasis Ritualist: Add to mana of any one color to your mana pool.
 Rarity:
 Card #:		142/199
 
@@ -1493,7 +1498,7 @@ Card Color:	Art
 Mana Cost:	5
 Type & Class:	Artifact Creature - Golem
 Pow/Tou:	4/4
-Card Text:	Hollow One costs %2 less to cast for each card you've cycled or discarded this turn.Cycling %2 (%2, Discard this card: Draw a card.)
+Card Text:	Hollow One costs 2 less to cast for each card you've cycled or discarded this turn.Cycling 2 (2, Discard this card: Draw a card.)
 Rarity:
 Card #:		160/199
 
@@ -1511,7 +1516,7 @@ Card Color:	Art
 Mana Cost:	2
 Type & Class:	Artifact
 Pow/Tou:
-Card Text:	Sunset Pyramid enters the battlefield with three brick counters on it.2, %T, Remove a brick counter from Sunset Pyramid: Draw a card.2, %T: Scry 1.
+Card Text:	Sunset Pyramid enters the battlefield with three brick counters on it.2, T, Remove a brick counter from Sunset Pyramid: Draw a card.2, T: Scry 1.
 Rarity:
 Card #:		162/199
 
@@ -1520,7 +1525,7 @@ Card Color:	Art
 Mana Cost:	2
 Type & Class:	Artifact
 Pow/Tou:
-Card Text:	1, %T: Exile target card from a graveyard.1, Exile Crook of Condemnation: Exile all cards from all graveyards.
+Card Text:	1, T: Exile target card from a graveyard.1, Exile Crook of Condemnation: Exile all cards from all graveyards.
 Rarity:
 Card #:		163/199
 
@@ -1548,7 +1553,7 @@ Card Color:	Art
 Mana Cost:	3
 Type & Class:	Artifact
 Pow/Tou:
-Card Text:	%T: Add one mana of any color to your mana pool.
+Card Text:	T: Add one mana of any color to your mana pool.
 Rarity:
 Card #:		166/199
 
@@ -1567,7 +1572,7 @@ Mana Cost:	2
 Type & Class:	Artifact Creature - Wall
 Pow/Tou:	0/4
 Card Text:	Defender
-%T: Wall of Forgotten Pharaohs deals 1 damage to target player. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.
+T: Wall of Forgotten Pharaohs deals 1 damage to target player. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.
 Rarity:
 Card #:		168/199
 
@@ -1576,9 +1581,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%2, %T: Exile target creature you control.
-%4, %T, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.
+Card Text:	T: Add %C to your mana pool.
+2, T: Exile target creature you control.
+4, T, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner's control.
 Rarity:
 Card #:		169/199
 
@@ -1587,8 +1592,8 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%2, %T, Sacrifice a desert: Exile all cards from all graveyards.
+Card Text:	T: Add %C to your mana pool.
+2, T, Sacrifice a desert: Exile all cards from all graveyards.
 Rarity:
 Card #:		170/199
 
@@ -1597,8 +1602,8 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%2, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 elemental creature until end of turn. It is still a land.
+Card Text:	T: Add %C to your mana pool.
+2, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 elemental creature until end of turn. It is still a land.
 Rarity:
 Card #:		171/199
 
@@ -1608,8 +1613,8 @@ Mana Cost:
 Type & Class:	Land
 Pow/Tou:
 Card Text:	When Crypt of the Eternals enters the battlefield, you gain 1 life.
-%T: Add %C to your mana pool.
-%1, %T: Add %U, %B, or %R to your mana pool.
+T: Add %C to your mana pool.
+1, T: Add U, B, or R to your mana pool.
 Rarity:
 Card #:		172/199
 
@@ -1618,7 +1623,7 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
+Card Text:	T: Add %C to your mana pool.
 When Dunes of the Dead is put into a graveyard from the battlefield, create a 2/2 black Zombie creature token.
 Rarity:
 Card #:		173/199
@@ -1628,8 +1633,8 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%T, Tap an untapped creature you control: Add one mana of any color to your mana pool.
+Card Text:	T: Add %C to your mana pool.
+T, Tap an untapped creature you control: Add one mana of any color to your mana pool.
 Rarity:
 Card #:		174/222
 
@@ -1638,9 +1643,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C: to your mana pool.
-%T, Pay 1 life: Add %W to your mana pool.
-%2%W%W, %T, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
+Card Text:	T: Add C: to your mana pool.
+T, Pay 1 life: Add W to your mana pool.
+2WW, T, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.
 Rarity:
 Card #:		175/222
 
@@ -1649,9 +1654,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%T, Pay 1 life: Add %U to your mana pool.
-%1%U, %T, Sacrifice a Desert: Target player puts the top four cards of his or her library into his or her graveyard.
+Card Text:	T: Add %C to your mana pool.
+T, Pay 1 life: Add U to your mana pool.
+1U, T, Sacrifice a Desert: Target player puts the top four cards of his or her library into his or her graveyard.
 Rarity:
 Card #:		176/222
 
@@ -1660,7 +1665,7 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.%T, Pay 1 life: Add B to your mana pool.2BB, %T, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
+Card Text:	T: Add %C to your mana pool.T, Pay 1 life: Add B to your mana pool.2BB, T, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.
 Rarity:
 Card #:		177/222
 
@@ -1669,8 +1674,8 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%T: Add %C to your mana pool.
-%T, Pay 1 life: Add %R to your mana pool.2RR, %T, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
+Card Text:	T: Add %C to your mana pool.
+T, Pay 1 life: Add R to your mana pool.2RR, T, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.
 Rarity:
 Card #:		178/222
 
@@ -1679,8 +1684,8 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	%%T: Add %C to your mana pool.
-%%T, Pay 1 life: Add %G to your mana pool.1GG,%T, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
+Card Text:	T: Add %C to your mana pool.
+T, Pay 1 life: Add G to your mana pool.1GG,T, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.
 Rarity:
 Card #:		179/222
 
@@ -1689,7 +1694,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	Desert of the True enters the battlefield tapped.%T: Add %W to your mana pool.Cycling 1W (1W, Discard this card: Draw a card.)
+Card Text:	Desert of the True enters the battlefield tapped. 
+T: Add W to your mana pool. 
+Cycling 1W (1W, Discard this card: Draw a card.)
 Rarity:
 Card #:		180/222
 
@@ -1698,7 +1705,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	Desert of the Mindful enters the battlefield tapped.%T: Add %U to your mana pool.Cycling 1U (1U, Discard this card: Draw a card.)
+Card Text:	Desert of the Mindful enters the battlefield tapped. 
+T: Add U to your mana pool. 
+Cycling 1U (1U, Discard this card: Draw a card.)
 Rarity:
 Card #:		181/222
 
@@ -1707,7 +1716,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	Desert of the Glorified enters the battlefield tapped.%T: Add B to your mana pool.Cycling 1B (1B, Discard this card: Draw a card.)
+Card Text:	Desert of the Glorified enters the battlefield tapped.
+T: Add B to your mana pool.
+Cycling 1B (1B, Discard this card: Draw a card.)
 Rarity:
 Card #:		182/222
 
@@ -1716,9 +1727,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	Desert of the Fervent enters tapped.
-%%T: Add %R to your mana pool.
-Cycling %1%R (%1%R, Discard this card: Draw a card.)
+Card Text:	Desert of the Fervent enters tapped. 
+T: Add R to your mana pool. 
+Cycling 1R (1R, Discard this card: Draw a card.)
 Rarity:
 Card #:		183/222
 
@@ -1727,9 +1738,9 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land - Desert
 Pow/Tou:
-Card Text:	Desert of the Indomitable enters the battlefield tapped.
-%%T: Add %G to your mana pool.
-Cycling %1%G (%1%G, Discard this card: Draw a card.)
+Card Text:	Desert of the Indomitable enters the battlefield tapped. 
+T: Add G to your mana pool. 
+Cycling 1G (1G, Discard this card: Draw a card.)
 Rarity:
 Card #:		184/222
 
@@ -1804,7 +1815,7 @@ Card Color:	R
 Mana Cost:	3R
 Type & Class:	Creature - Minotaur Archer
 Pow/Tou:	4/3
-Card Text:	%4%R: Zealot of the God-Pharoah deals 2 damage to target opponent.
+Card Text:	4R: Zealot of the God-Pharoah deals 2 damage to target opponent.
 Rarity:
 Card #:		192/199
 
@@ -1814,7 +1825,7 @@ Mana Cost:	4
 Type & Class:	Artifact
 Pow/Tou:
 Card Text:	When Visage of Bolas enters the battlefield, you may search your library and/or graveyard for a card named Nicol Bolas, the Deceiver, reveal it, and put it into your hand. If you search your library this way, shuffle it.
-%T: Add %U, %B, or %R to your mana pool.
+T: Add U, B, or R to your mana pool.
 Rarity:
 Card #:		193/199
 
@@ -1824,7 +1835,7 @@ Mana Cost:
 Type & Class:	Land
 Pow/Tou:
 Card Text:	Cinder Barrens enters the battlefield tapped.
-%T: Add %B or %R to your mana pool.
+T: Add B or R to your mana pool.
 Rarity:
 Card #:		194/199
 
@@ -1832,7 +1843,7 @@ Card Name:	Nissa, Genesis Mage
 Card Color:	G
 Mana Cost:	5GG
 Type & Class:	Planeswalker - Nissa
-Pow/Tou:	%5#
+Pow/Tou:	5#
 Card Text:	+2: Untap up to two target creatures and up to two target lands.
 -3: Target creature gets +5/+5 until end of turn.
 -10: Look at the top ten cards of your library. You may put any number of creature and/or land cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
@@ -1844,7 +1855,7 @@ Card Color:	G
 Mana Cost:	2G
 Type & Class:	Creature - Human Druid
 Pow/Tou:	2/2
-Card Text:	%T: Add %G or %U to your mana pool. If you control a Nissa planeswalker, you gain 2 life.
+Card Text:	T: Add G or U to your mana pool. If you control a Nissa planeswalker, you gain 2 life.
 Rarity:
 Card #:		196/199
 
@@ -1871,7 +1882,7 @@ Card Color:	Lnd
 Mana Cost:
 Type & Class:	Land
 Pow/Tou:
-Card Text:	Woodland Stream enters the battlefield tapped.%T: Add %G or %U to your mana pool.
+Card Text:	Woodland Stream enters the battlefield tapped.T: Add G or U to your mana pool.
 Rarity:
 Card #:		199/199
 
