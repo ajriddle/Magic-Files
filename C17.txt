@@ -1,0 +1,566 @@
+Card Name:	Kess, Dissident Mage
+Card Color:	Gld
+Mana Cost:	1UBR
+Type & Class:	Legendary Creature - Human Wizard
+Pow/Tou:	3/4
+Card Text:	Flying
+During each of your turns, you may cast an instant or sorcery card from your graveyard. If a card cast this way would be put into your graveyard this turn, exile it instead.
+Rarity:
+Card #:		1/56
+
+Card Name:	Arahbo, Roar of the World
+Card Color:	Gld
+Mana Cost:	3GW
+Type & Class:	Legendary Creature - Cat Avatar
+Pow/Tou:	5/5
+Card Text:	Eminence - At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.
+Whenever another Cat you control attacks, you may pay 1GW. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.
+Rarity:
+Card #:		2/56
+
+Card Name:	Licia, Sanguine Tribune
+Card Color:	Gld
+Mana Cost:	5RWB
+Type & Class:	Legendary Creature - Vampire Soldier
+Pow/Tou:	4/4
+Card Text:	Licia, Sanguine Tribune costs %1 less to cast for each 1 life you gained this turn.
+First strike, lifelink
+Pay 5 life: Put three +1/+1 counters on Licia. Activate this ability only on your turn and only once each turn.
+Rarity:
+Card #:		3/56
+
+Card Name:	Edgar Markov
+Card Color:	Gld
+Mana Cost:	3RWB
+Type & Class:	Legendary Creature - Vampire Knight
+Pow/Tou:	4/4
+Card Text:	Eminence - Whenever you cast another Vampire spell, if Edgar Markov is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.
+First strike, haste
+Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you control.
+Rarity:
+Card #:		4/56
+
+Card Name:	Mairsil, the Pretender
+Card Color:	Gld
+Mana Cost:	1UBR
+Type & Class:	Legendary Creature - Human Wizard
+Pow/Tou:	4/4
+Card Text:	When Mairsil, the Pretender enters the battlefield, you may exile an artifact or creature card from your hand or graveyard and put a cage counter on it.
+Mairsil, the Pretender has all activated abilities of all cards you own in exile with cage counters on them. You may activate each of those abilities only once each turn.
+Rarity:
+Card #:		5/56
+
+Card Name:	Taigam, Sidisi's Hand
+Card Color:	Gld
+Mana Cost:	3UB
+Type & Class:	Legendary Creature - Human Wizard
+Pow/Tou:	3/4
+Card Text:	Skip your draw step.
+At the beginning of your upkeep, look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+B, T, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.
+Rarity:
+Card #:		6/56
+
+Card Name:	O-Kagachi, Vengeful Kami
+Card Color:	Gld
+Mana Cost:	1WUBRG
+Type & Class:	Legendary Creature - Dragon Spirit
+Pow/Tou:	6/6
+Card Text:	Flying, trample
+Whenever O-Kagachi, Vengeful Kami deals combat damage to a player, if that player attacked you during his or her last turn, exile target nonland permanent that player controls.
+Rarity:
+Card #:		7/56
+
+Card Name:	The Ur-Dragon
+Card Color:	Gld
+Mana Cost:	4WUBRG
+Type & Class:	Legendary Creature - Dragon Avatar
+Pow/Tou:	10/10
+Card Text:	Eminence - As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost %1 less to cast.
+Flying
+Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.
+Rarity:
+Card #:		8/56
+
+Card Name:	Wasitora, Nekoru Queen
+Card Color:	Gld
+Mana Cost:	2BRG
+Type & Class:	Legendary Creature - Cat Dragon
+Pow/Tou:	5/4
+Card Text:	Flying, trample
+Whenever Wasitora, Nekoru Queen deals combat damage to a player, that player sacrifices a creature. If the player can't, you create a 3/3 black, red, and green Cat Dragon creature token with flying.
+Rarity:
+Card #:		9/56
+
+Card Name:	Mirri, Weatherlight Duelist
+Card Color:	Gld
+Mana Cost:	1GW
+Type & Class:	Legendary Creature - Cat Warrior
+Pow/Tou:	3/2
+Card Text:	First Strike
+Whenever Mirri, Weatherlight Duelist attacks, each opponent can't block with more than one creature this combat.
+As long as Mirri, Weatherlight Duelist is tapped, no more than one creature can attack you each combat.
+Rarity:
+Card #:		10/56
+
+Card Name:	Kindred Boon
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Enchantment
+Pow/Tou:
+Card Text:	When Kindred Boon enters the battlefield choose a creature type.
+1W: Put a divinity counter on target creature you control with the chosen type.
+All creatures you control with a divinity counter become indestructible.
+Rarity:
+Card #:		11/56
+
+Card Name:	Kindred Discovery
+Card Color:	U
+Mana Cost:	3UU
+Type & Class:	Enchantment
+Pow/Tou:
+Card Text:	As Kindred Discovery enters the battlefield, choose a creature type.
+Whenever a creature you control of the chose type enters the battlefield or attacks, draw a card.
+Rarity:
+Card #:		12/56
+
+Card Name:	Kindred Dominance
+Card Color:	B
+Mana Cost:	5BB
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Choose a creature type. Destroy all creatures that are not the chosen type.
+Rarity:
+Card #:		13/56
+
+Card Name:	Kindred Charge
+Card Color:	R
+Mana Cost:	4RR
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Choose a creature type. For each creature you control of the chosen type, create a token that's a copy of that creature. Those tokens gain haste. Exile them at the beginning of the next end step.
+Rarity:
+Card #:		14/56
+
+Card Name:	Kindred Summons
+Card Color:	G
+Mana Cost:	5GG
+Type & Class:	Instant
+Pow/Tou:
+Card Text:	Choose a creature type. Reveal the top card card of your library until you reveal X creatures of the chosen type, where X is the number of creatures you control of the chosen type, and place them onto the battlefield. Shuffle the other revealed cards into your library.
+Rarity:
+Card #:		15/56
+
+Card Name:	Curse of Vitality
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Enchantment - Aura Curse
+Pow/Tou:
+Card Text:	Enchant player
+Whenever enchanted player is attacked, you gain 2 life. Each opponent attacking that player does the same.
+Rarity:
+Card #:		16/56
+
+Card Name:	Curse of Verbosity
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Enchantment - Aura Curse
+Pow/Tou:
+Card Text:	Enchant player
+Whenever enchanted player is attacked, draw a card. Each opponent attacking that player does the same.
+Rarity:
+Card #:		17/56
+
+Card Name:	Curse of Disturbance
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Enchantment - Aura Curse
+Pow/Tou:
+Card Text:	Enchant player
+Whenever enchanted player is attacked, create a 2/2 black Zombie creature token. Each opponent attacking that player does the same.
+Rarity:
+Card #:		18/56
+
+Card Name:	Curse of Opulence
+Card Color:	R
+Mana Cost:	R
+Type & Class:	Enchantment - Aura Curse
+Pow/Tou:
+Card Text:	Enchant player
+Whenever enchanted player is attacked, create a colorless artifact token named Gold. It has "sacrifice this artifact: Add one mana of any color to your mana pool." Each opponent attacking that player does the same.
+Rarity:
+Card #:		19/56
+
+Card Name:	Curse of Bounty
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Enchantment - Aura Curse
+Pow/Tou:
+Card Text:	Enchant player
+Whenever enchanted player is attacked, untap all nonland permanents you control. Each opponent attacking that player untaps all nonland permanents he or she controls.
+Rarity:
+Card #:		20/56
+
+Card Name:	Fortunate Few
+Card Color:	W
+Mana Cost:	3WW
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Choose a nonland permanent you don't control, then each other player chooses a nonland permanent he or she doesn't control that hasn't been chosen this way. Destroy all other nonland permanents.
+Rarity:
+Card #:		21/56
+
+Card Name:	Scalelord Reckoner
+Card Color:	W
+Mana Cost:	5WW
+Type & Class:	Creature - Dragon
+Pow/Tou:	4/4
+Card Text:	Flying
+Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, destroy target nonland permanent that player controls.
+Rarity:
+Card #:		22/56
+
+Card Name:	Alms Collector
+Card Color:	W
+Mana Cost:	3W
+Type & Class:	Creature - Cat Cleric
+Pow/Tou:	3/4
+Card Text:	Flash
+If an opponent would draw two or more cards, instead you and that player each draw a card.
+Rarity:
+Card #:		23/56
+
+Card Name:	Balan, Wandering Knight
+Card Color:	W
+Mana Cost:	2WW
+Type & Class:	Legendary Creature - Cat Knight
+Pow/Tou:	3/3
+Card Text:	First strike
+Balan, Wandering Knight has double strike as long as two or more Equipment are attached to it.
+1W: Attach all Equipment you control to Balan.
+Rarity:
+Card #:		24/56
+
+Card Name:	Stalking Leonin
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Creature - Cat Archer
+Pow/Tou:	3/3
+Card Text:	When Stalking Leonin enters the battlefield, secretly choose an opponent.
+Reveal the player you chose: Exile target creature that's attacking you if it's controlled by the chosen player. Activate this ability only once.
+Rarity:
+Card #:		25/56
+
+Card Name:	Teferi's Protection
+Card Color:	W
+Mana Cost:	2W
+Type & Class:	Instant
+Pow/Tou:
+Card Text:	Until your next turn, your life total can't change, and you have protection from everything. All permanents you control phase out. (While they're phased out, they're treated as though they don't exist. They phase in before you untap during your untap step.)
+Exile Teferi's Protection.
+Rarity:
+Card #:		26/56
+
+Card Name:	Magus of the Mind
+Card Color:	U
+Mana Cost:	4UU
+Type & Class:	Creature - Human Wizard
+Pow/Tou:	4/5
+Card Text:	U, T: Sacrifice Magus of the Mind: Shuffle your library, then exile the top X cards, where X is one plus the number of spells cast this turn. Until end of turn, you may play cards exiled this way without paying their mana costs.
+Rarity:
+Card #:		27/56
+
+Card Name:	Portal Mage
+Card Color:	U
+Mana Cost:	2U
+Type & Class:	Creature - Human Wizard
+Pow/Tou:	2/2
+Card Text:	Flash
+If Portal Mage enters the battlefield during the declare attackers step, you may reselect the player or planeswalker that the target attacking creature attacks.
+Rarity:
+Card #:		28/56
+
+Card Name:	Galecaster Colossus
+Card Color:	U
+Mana Cost:	5UU
+Type & Class:	Creature - Giant Wizard
+Pow/Tou:	5/6
+Card Text:	Tap an untapped Wizard you control: Return target non-land permanent you don't control to its owner's hand.
+Rarity:
+Card #:		29/56
+
+Card Name:	Vindictive Lich
+Card Color:	B
+Mana Cost:	3B
+Type & Class:	Creature - Zombie Wizard
+Pow/Tou:	4/1
+Card Text:	When Vindictive Lich dies, choose one or more. Each mode must target a different player-
+|Target opponent sacrifices a creature.
+|Target opponent discards two cards.
+|Target opponent loses 5 life.
+Rarity:
+Card #:		30/56
+
+Card Name:	Boneyard Scourge
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Creature - Zombie Dragon
+Pow/Tou:	4/3
+Card Text:	Flying
+Whenever a Dragon you control dies while Boneyard Scourge is in your graveyard, you may pay 1B. If you do, return Boneyard Scourge from your graveyard to the battlefield.
+Rarity:
+Card #:		31/56
+
+Card Name:	Kheru Mind-Eater
+Card Color:	B
+Mana Cost:	2B
+Type & Class:	Creature - Vampire
+Pow/Tou:	1/3
+Card Text:	Menace
+Whenever Kheru Mind-Eater deals combat damage to a player, that player exiles a card from his or her hand face down.
+You may look at and play cards exiled with Kheru Mind-Eater.
+Rarity:
+Card #:		32/56
+
+Card Name:	New Blood
+Card Color:	B
+Mana Cost:	2BB
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	As an additional cost to cast New Blood, tap an untapped Vampire you control.
+Gain control of target creature. Change the text of that creature by replacing all instances of one creature type with Vampire.
+Rarity:
+Card #:		33/56
+
+Card Name:	Patron of the Vein
+Card Color:	B
+Mana Cost:	4BB
+Type & Class:	Creature - Vampire Shaman
+Pow/Tou:	4/4
+Card Text:	Flying
+When Patron of the Vein enters the battlefield, destroy target creature an opponent controls.
+Whenever a creature an opponent controls dies, exile it and put a +1/+1 counter on each Vampire you control.
+Rarity:
+Card #:		34/56
+
+Card Name:	Bloodline Necromancer
+Card Color:	B
+Mana Cost:	4B
+Type & Class:	Creature - Vampire Wizard
+Pow/Tou:	3/2
+Card Text:	Lifelink
+When Bloodline Necromancer enters the battlefield, you may return target Vampire or Wizard creature card from your graveyard to the battlefield.
+Rarity:
+Card #:		35/56
+
+Card Name:	Izzet Chemister
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Creature - Goblin Chemister
+Pow/Tou:	1/3
+Card Text:	Haste
+R, T: Exile target instant or sorcery card from your graveyard.
+1R, T: Sacrifice Izzet Chemister: Cast any number of cards exiled with Izzet Chemister without paying their mana costs.
+Rarity:
+Card #:		36/56
+
+Card Name:	Shifting Shadow
+Card Color:	R
+Mana Cost:	2R
+Type & Class:	Enchantment - Aura
+Pow/Tou:
+Card Text:	Enchant creature
+Enchanted creature has haste and "At the beginning of your upkeep, destroy this creature. Reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and attach Shifting Shadow to it, then put all other cards revealed this way on the bottom of your library in a random order.
+Rarity:
+Card #:		37/56
+
+Card Name:	Bloodsworn Steward
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Vampire Knight
+Pow/Tou:	4/4
+Card Text:	Flying
+Commander creatures you control get +2/+2 and have haste.
+Rarity:
+Card #:		38/56
+
+Card Name:	Crimson Honor Guard
+Card Color:	R
+Mana Cost:	3RR
+Type & Class:	Creature - Vampire Knight
+Pow/Tou:	4/5
+Card Text:	Trample
+At the beginning of each player's end step, Crimson Honor Guard deals 4 damage to that player unless he or she controls a commander.
+Rarity:
+Card #:		39/56
+
+Card Name:	Disrupt Decorum
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Goad all creatures you don't control.(Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)
+Rarity:
+Card #:		40/56
+
+Card Name:	Territorial Hellkite
+Card Color:	R
+Mana Cost:	2RR
+Type & Class:	Creature - Dragon
+Pow/Tou:	6/5
+Card Text:	Flying, haste
+At the beginning of combat on your turn, choose an opponent at random that Territorial Hellkite didn't attack during your last combat. Territorial Hellkite attacks that player this combat if able. If you can't choose an opponent this way, tap Territorial Hellkite.
+Rarity:
+Card #:		41/56
+
+Card Name:	Qasali Slingers
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Creature - Cat Warrior
+Pow/Tou:	3/5
+Card Text:	Reach
+Whenever Qasali Slingers or another Cat enters the battlefield under your control, you may destroy target artifact or enchantment.
+Rarity:
+Card #:		42/56
+
+Card Name:	Hungry Lynx
+Card Color:	G
+Mana Cost:	1G
+Type & Class:	Creature - Cat
+Pow/Tou:	2/2
+Card Text:	Cats you control have protection from Rats. (They can't be blocked, targeted, or dealt damage by Rats.)
+At the beginning of your end step, target opponent creates a 1/1 black Rat creature token with deathtouch.Whenever a Rat dies, put a +1/+1 counter on each Cat you control.
+Rarity:
+Card #:		43/56
+
+Card Name:	Traverse the Outlands
+Card Color:	G
+Mana Cost:	4G
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Search your library for up to X basic land cards, where X is the greatest power among creatures you control. Put those cards onto the battlefield tapped, then shuffle your library.
+Rarity:
+Card #:		44/56
+
+Card Name:	Nazahn, Revered Bladesmith
+Card Color:	Gld
+Mana Cost:	4GW
+Type & Class:	Legendary Creature - Cat Artificer
+Pow/Tou:	5/4
+Card Text:	When Nazahn, Revered Bladesmith enters the battlefield, search your library for an Equipment card and reveal it. If you reveal a card named Hammer of Nazahn this way, put it onto the battlefield. Otherwise, put that card into your hand. Then shuffle your library.Whenever an equipped creature you control attacks, you may tap target creature defending player controls.
+Rarity:
+Card #:		45/56
+
+Card Name:	Mathas, Fiend Seeker
+Card Color:	Gld
+Mana Cost:	RWB
+Type & Class:	Legendary Creature - Vampire
+Pow/Tou:	3/3
+Card Text:	Menace
+At the beginning of your end step, put a bounty counter on target creature an opponent controls. For as long as that creature has a bounty counter on it, it has "When this creature dies, each opponent draws a card and gains 2 life.
+Rarity:
+Card #:		46/56
+
+Card Name:	Inalla, Archmage Ritualist
+Card Color:	Gld
+Mana Cost:	2UBR
+Type & Class:	Legendary Creature - Human Wizard
+Pow/Tou:	4/5
+Card Text:	Eminence - Whenever another nontoken Wizard enters the battlefield under your control, if Inalla, Archmage Ritualist is in the command zone or on the battlefield, you may pay %1. If you do, create a token that's a copy of that Wizard. The token gains haste. Exile it at the beginning of the next end step.
+Tap five untapped Wizards you control: Target player loses 7 life.
+Rarity:
+Card #:		47/56
+
+Card Name:	Taigam, Ojutai Master
+Card Color:	Gld
+Mana Cost:	2WU
+Type & Class:	Legendary Creature - Human Monk
+Pow/Tou:	3/4
+Card Text:	Instant, sorcery, and Dragon spells you control can't be countered by spells or abilities.
+Whenever you cast an instant or sorcery spell from your hand, if Taigam, Ojutai Master attacked this turn, that spell gains rebound. (Exile the spell as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)
+Rarity:
+Card #:		48/56
+
+Card Name:	Fractured Identity
+Card Color:	Gld
+Mana Cost:	3WU
+Type & Class:	Sorcery
+Pow/Tou:
+Card Text:	Exile target nonland permanent. Each player other than its controller creates a token that's a copy of it.
+Rarity:
+Card #:		49/56
+
+Card Name:	Ramos, Dragon Engine
+Card Color:	Art
+Mana Cost:	6
+Type & Class:	Legendary Artifact Creature - Dragon
+Pow/Tou:	4/4
+Card Text:	Flying
+Whenever you cast a spell, put a +1/+1 counter on Ramos, Dragon Engine for each of that spell's colors.
+Remove five +1/+1 counters from Ramos: Add WWUUBBRRGG to your mana pool. Activate this ability only once each turn.
+Rarity:
+Card #:		50/56
+
+Card Name:	Mirror of the Forebears
+Card Color:	Art
+Mana Cost:	2
+Type & Class:	Artifact
+Pow/Tou:
+Card Text:	As Mirror of the Forebears enters the battlefield, choose a creature type.
+%1: Until end of turn, Mirror of the Forebears becomes a copy of target creature you control of the chosen type, except it's an artifact in addition to its other types.
+Rarity:
+Card #:		51/56
+
+Card Name:	Bloodforged War Axe
+Card Color:	Art
+Mana Cost:	1
+Type & Class:	Artifact - Equipment
+Pow/Tou:
+Card Text:	Equipped creature gets +2/+0.
+Whenever equipped creature deals combat damage to a player, create a token that's a copy of Bloodforged War Axe.
+Equip %2
+Rarity:
+Card #:		52/56
+
+Card Name:	Hammer of Nazahn
+Card Color:	Art
+Mana Cost:	4
+Type & Class:	Legendary Artifact - Equipment
+Pow/Tou:
+Card Text:	Whenever Hammer of Nazahn or another Equipment enters the battlefield under your control, you may attach that Equipment to target creature you control.
+Equipped creature gets +2/+0 and has indestructible.
+Equip %4
+Rarity:
+Card #:		53/56
+
+Card Name:	Herald's Horn
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact
+Pow/Tou:
+Card Text:	When Herald's Horn enters the battlefield, choose a creature type.
+Creature spells you cast of the chosen type cost %1 less to cast.
+At the beginning of your upkeep, look at the top card of your library. If it's a creature card of the chosen type, you may reveal it and put it into your hand.
+Rarity:
+Card #:		54/56
+
+Card Name:	Heirloom Blade
+Card Color:	Art
+Mana Cost:	3
+Type & Class:	Artifact - Equipment
+Pow/Tou:
+Card Text:	Equipped creature gets +3/+1.
+Whenever equipped creature dies, you may reveal cards from the top of your library until you reveal a creature card that shares a creature type with it. Put that card into your hand and the rest on the bottom of your library in a random order.
+Equip %1
+Rarity:
+Card #:		55/56
+
+Card Name:	Path of Ancestry
+Card Color:	Lnd
+Mana Cost:
+Type & Class:	Land
+Pow/Tou:
+Card Text:	Path of Ancestry enters the battlefield tapped.
+T: Add to your mana pool one mana of any color in your commander's color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.
+Rarity:
+Card #:		56/56
